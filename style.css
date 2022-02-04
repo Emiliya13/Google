@@ -1,0 +1,31 @@
+.G {
+    color: #0594FC;
+}
+.e {
+    color: #F03B26;
+}
+.o {
+    color: #FBCA02;
+}
+.l {
+    color: #0DA304;
+}
+button {
+    width: 150px;
+    height: 25px;
+    margin-top: 25px;
+}
+input {
+    width: 350px;
+    height: 15px;
+}
+h1 {
+    font-size: 90px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
